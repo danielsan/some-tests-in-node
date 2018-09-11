@@ -1,0 +1,29 @@
+{
+  "name": "some-tests-in-node",
+  "version": "1.0.0",
+  "description": "wazuuup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsan/some-tests-in-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielsan/some-tests-in-node/issues"
+  },
+  "homepage": "https://github.com/danielsan/some-tests-in-node#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "sinon": "^6.2.0"
+  },
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
